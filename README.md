@@ -63,5 +63,3 @@ This is a Recipe Application named "projet-recette-ionic" developed by Lamine005
    ```
 
 ---
-
-N'oubliez pas de mettre à jour régulièrement votre `README.md` pour refléter les changements ou les améliorations apportés à votre projet. Vous pouvez également enrichir ce fichier avec des captures d'écran, des informations supplémentaires sur les fonctionnalités, ou toute autre documentation utile pour les utilisateurs ou les contributeurs potentiels.
